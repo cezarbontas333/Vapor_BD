@@ -9,8 +9,8 @@ This can be built using Visual Studio 2022, you'd need:
 
 ### To be done:
 For now only a login page appears. There should also be a:
-- Home page with games in store;
-- Inventory of each player;
-- Purchase history + cart & buy functionality;
+- Home page with games in store (implemented);
+- Inventory of each player (implemented);
+- Purchase history + cart & buy functionality (partially thorugh the library table, it can be implemented);
 - Friends list + friend requests (optional);
 - Comments for games (optional).
