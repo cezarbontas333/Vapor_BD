@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace Vapor
 {
-    public partial class HomeMenu : Form
+    public partial class MenuAdmin : Form
     {
-        public HomeMenu()
+        public MenuAdmin()
         {
             InitializeComponent();
+        }
+
+        private void MenuAdmin_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
